@@ -1,0 +1,2 @@
+[xblock.v1]
+la_single_quiz = la_single_quiz.la_single_quiz:SingleQuizXBlock

@@ -1,0 +1,11 @@
+setup.py
+la_single_quiz/__init__.py
+la_single_quiz/la_single_quiz.py
+la_single_quiz/static/html/studio_view.html
+la_single_quiz/static/js/studio_view.js
+la_single_quiz_xblock.egg-info/PKG-INFO
+la_single_quiz_xblock.egg-info/SOURCES.txt
+la_single_quiz_xblock.egg-info/dependency_links.txt
+la_single_quiz_xblock.egg-info/entry_points.txt
+la_single_quiz_xblock.egg-info/requires.txt
+la_single_quiz_xblock.egg-info/top_level.txt

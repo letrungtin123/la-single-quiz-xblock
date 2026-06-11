@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: la-single-quiz-xblock
+Version: 0.1.0
+Summary: L&A Single Choice Quiz XBlock — Trắc nghiệm 1 đáp án với ảnh carousel và video YouTube.
+Requires-Dist: XBlock
